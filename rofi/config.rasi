@@ -1,0 +1,8 @@
+configuration {
+	modi: "drun";
+	font: "Overpass 10";
+	lines: 10;
+	columns: 2;
+	width: 25;
+	theme: "theme.rasi";
+}

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# termite -e "sudo pacman -Syu"
+pamac-manager
